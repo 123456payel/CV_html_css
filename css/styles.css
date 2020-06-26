@@ -43,6 +43,18 @@ hr
 	background-color: #e3fdfd;
 }
 
+@media (max-width: 800px){
+	.land {
+		width: 75%;
+	}
+	.cloud {
+		width: 20%;
+	}
+	.top-cloud {
+		right: 5px;
+	}
+}
+
 .contact-me
 {
 	margin: 5% auto 5% auto;
